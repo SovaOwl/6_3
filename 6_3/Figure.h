@@ -14,9 +14,6 @@ protected:
     string get_figure_name();
 
 public:
-    Figure()
-    {
-        figure_name = "Фигура:";
-    }
+    Figure();
     virtual void get_info();
 };

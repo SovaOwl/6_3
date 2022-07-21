@@ -140,8 +140,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="6_3.cpp" />
+    <ClCompile Include="Equilateral_triangle .cpp" />
     <ClCompile Include="Figure.cpp" />
+    <ClCompile Include="Isosceles_triangle .cpp" />
+    <ClCompile Include="Parallelogram.cpp" />
     <ClCompile Include="Quadrilateral .cpp" />
+    <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="Rhombus.cpp" />
+    <ClCompile Include="Right_triangle.cpp" />
+    <ClCompile Include="Square.cpp" />
     <ClCompile Include="Triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
