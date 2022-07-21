@@ -1,7 +1,11 @@
 #include "Figure.h"
 
+
+
+
 void Figure::set_figure_name(string name)
 {
+    setlocale(LC_ALL, "Rus");
     figure_name = name;
 }
 

@@ -2,6 +2,7 @@
 
 Quadrilateral::Quadrilateral(int a2, int b2, int c2, int d2, int A2, int B2, int C2, int D2) :Figure()
 {
+    setlocale(LC_ALL, "Rus");
     set_figure_name("Четырёхугольник:");
     a1 = a2, b1 = b2, c1 = c2, d1 = d2, A1 = A2, B1 = B2, C1 = C2, D1 = D2;
 }
