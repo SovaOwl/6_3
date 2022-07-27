@@ -1,7 +1,7 @@
 #include"Quadrilateral.h"
 #pragma once
 
-class Parallelogram : public Quadrilateral //параллелограмм (стороны a,c и b,d попарно равны, углы A,C и B,D попарно равны)
+class Parallelogram : public Quadrilateral //parallelogram (sides a,c and b,d are pairwise equal, angles A,C and B,D are pairwise equal)
 {
 public:
     Parallelogram(int a, int b, int A, int B);
