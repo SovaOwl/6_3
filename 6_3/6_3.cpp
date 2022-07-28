@@ -1,4 +1,5 @@
-﻿#include"Figure.h"
+﻿#include <iostream>
+#include"Figure.h"
 #include"Triangle.h"
 #include"Right_triangle.h"
 #include"Isosceles_triangle .h"

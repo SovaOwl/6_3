@@ -1,6 +1,10 @@
 ﻿  6_3.cpp
+C:\Users\79182\source\repos\6_3\6_3\6_3.cpp(21,12): error C2065: LC_ALL: необъявленный идентификатор
+C:\Users\79182\source\repos\6_3\6_3\6_3.cpp(21,2): error C3861: setlocale: идентификатор не найден
   Equilateral_triangle .cpp
   Figure.cpp
+C:\Users\79182\source\repos\6_3\6_3\Figure.cpp(23,5): error C2065: cout: необъявленный идентификатор
+C:\Users\79182\source\repos\6_3\6_3\Figure.cpp(23,28): error C2065: endl: необъявленный идентификатор
   Isosceles_triangle .cpp
   Parallelogram.cpp
   Quadrilateral .cpp
@@ -9,5 +13,11 @@
   Right_triangle.cpp
   Square.cpp
   Triangle.cpp
+C:\Users\79182\source\repos\6_3\6_3\Triangle.cpp(11,5): error C2065: cout: необъявленный идентификатор
+C:\Users\79182\source\repos\6_3\6_3\Triangle.cpp(11,34): error C2065: endl: необъявленный идентификатор
+C:\Users\79182\source\repos\6_3\6_3\Triangle.cpp(12,5): error C2065: cout: необъявленный идентификатор
+C:\Users\79182\source\repos\6_3\6_3\Triangle.cpp(12,84): error C2065: endl: необъявленный идентификатор
+C:\Users\79182\source\repos\6_3\6_3\Triangle.cpp(13,5): error C2065: cout: необъявленный идентификатор
+C:\Users\79182\source\repos\6_3\6_3\Triangle.cpp(13,84): error C2065: endl: необъявленный идентификатор
+C:\Users\79182\source\repos\6_3\6_3\Triangle.cpp(13,92): error C2065: endl: необъявленный идентификатор
   Создание кода...
-  6_3.vcxproj -> C:\Users\79182\source\repos\6_3\x64\Debug\6_3.exe

@@ -1,3 +1,4 @@
+#include <iostream>
 #include "Quadrilateral.h"
 
 Quadrilateral::Quadrilateral(int a2, int b2, int c2, int d2, int A2, int B2, int C2, int D2) :Figure()

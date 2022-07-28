@@ -1,5 +1,5 @@
-#include"Triangle.h"
 #pragma once
+#include"Triangle.h"
 
 class Isosceles_triangle : public Triangle //isosceles triangle (sides a and c are equal, angles A and C are equal)
 {

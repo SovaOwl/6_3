@@ -1,7 +1,5 @@
+#include <iostream>
 #include "Figure.h"
-
-
-
 
 void Figure::set_figure_name(string name)
 {
